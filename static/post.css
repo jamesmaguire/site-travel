@@ -18,14 +18,14 @@
 
 html {
   background: var(--pagebg);
-  font-family: 'Inter',sans;
+  font-family: 'Inter', Sans;
   font-size: 11pt;
   line-height: 1.5;
 }
 
 body {
   width: 70%;
-  width: 100ch;
+  width: min(100ch, 100vw);
   margin: 5% auto;
   padding-bottom: 3rem;
   border: var(--borders);
@@ -41,7 +41,7 @@ body {
 .title {
   grid-row: 1;
   grid-column: 1;
-  font-family: 'Raleway';
+  font-family: 'Raleway', Sans;
   text-transform: uppercase;
   letter-spacing: 0.5rem;
   font-size: 150%;
@@ -68,6 +68,7 @@ body {
   margin: 0;
   padding: 0;
   margin-bottom: 3rem;
+  padding-right: 3rem;
   
   display: flex;
   align-items: center;
@@ -75,7 +76,6 @@ body {
 }
 #flag img {
   max-height: 6rem;
-  border: var(--borders);
 }
 
 .outline-2 {

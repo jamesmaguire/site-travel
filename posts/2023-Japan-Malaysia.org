@@ -4,7 +4,7 @@
 
 #+begin_export html
 <div id="flag">
-<img src="../flags/japanmalaysia.svg">
+<img src="../svg/japanmalaysia.svg">
 </div>
 #+end_export
  
@@ -138,12 +138,13 @@ The heat here is heavy, the outside is noisy and smelly. It's an interesting pla
 * Wed, 19 April
 
 14:22
-KL, the city of malls, the city of 40-50 storey apartment blocks under construction, the city of security guards. This morning we went for a walk to a nearby garden to have a look which turned into a full morning event. After the park we went into the mall at the base of the Petronas towers and through the Petrosians Science Discovery Centre (KL's Questacon). Even though we were the only ones there without kids or parents it was awesome. My favourite was the F1 racing simulator (force feedback wheel and bumping chair). After that we did a bit of mall jumping to get to Minf Houze vegan for some Nasi Lemak (and Hainanese chicken for Alex). On the way back we grabbed some potato curry puffs and cockroach spray.
+KL, the city of malls, the city of 40-50 storey apartment blocks under construction, the city of security guards. This morning we went for a walk to a nearby garden to have a look which turned into a full morning event. After the park we went into the mall at the base of the Petronas towers and through the Petrosains Science Discovery Centre (KL's Questacon). Even though we were the only ones there without kids or parents it was awesome. My favourite was the F1 racing simulator (force feedback wheel and bumping chair). After that we did a bit of mall jumping to get to Minf Houze vegan for some Nasi Lemak (and Hainanese chicken for Alex). On the way back we grabbed some potato curry puffs and cockroach spray.
 
 21:00
 After some sorting of Foo's stuff and cockroach fumigating we walked I to town again for dinner. Found a vegetarian Nasi Lemak place. Once we got back we had a nice long swim in the apartment pool, a quick go of the jacuzzi and a sauna attempt (under maintenance). Used the free wifi to download a movie on Netflix and going to watch on a bit of a bodge monitor/soundbar/phone setup.
 
 Malls visited: 5
+
 Steps: 20,347
 
 * Thu, 20 April

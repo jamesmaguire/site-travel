@@ -1,0 +1,10 @@
+#+TITLE: Our Travels
+#+SETUPFILE: ./static/index.setup
+
+#+begin_export html
+<div id="flag">
+<img src="./svg/plane.svg">
+</div>
+#+end_export
+
+* [[file:posts/2023-Japan-Malaysia.org][April 2023 - Japan and Malaysia]]

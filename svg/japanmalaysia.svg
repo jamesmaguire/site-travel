@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.6501738"
-     inkscape:cx="290.57545"
-     inkscape:cy="191.19198"
+     inkscape:cx="290.87845"
+     inkscape:cy="191.79798"
      inkscape:window-width="2514"
      inkscape:window-height="1376"
      inkscape:window-x="0"
@@ -101,4 +101,10 @@
        id="path2235"
        cx="52.916664"
        cy="26.458332"
-       r="15.874999" /></g></svg>
+       r="15.874999" /><rect
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.265923;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect297"
+       width="105.56741"
+       height="105.56741"
+       x="0.13296133"
+       y="0.13296117" /></g></svg>

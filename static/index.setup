@@ -1,0 +1,9 @@
+# -*- mode: org; -*-
+
+#+OPTIONS: toc:nil num:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/post.css" />
+#+html_head: <script type="text/javascript" src="./static/post.js" defer></script>
+#+HTML_HEAD: <link rel="icon" type="image/ico" href="./svg/plane.svg" />
+#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1.0">
