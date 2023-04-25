@@ -25,7 +25,7 @@ html {
 
 body {
   width: 70%;
-  width: min(100ch, 100vw);
+  width: min(80ch, 100vw);
   margin: 5% auto;
   padding-bottom: 3rem;
   border: var(--borders);
@@ -81,6 +81,13 @@ body {
 .outline-2 {
   grid-column: 1 / span 2;
   padding: 0rem 3rem;
+}
+
+.outline-2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: min(100%, 50vh);
 }
 
 h2 {
