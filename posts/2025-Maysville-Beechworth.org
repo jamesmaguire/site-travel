@@ -3,8 +3,8 @@
 #+setupfile: ../static/post.setup
 
 #+begin_export html
-<div id=flag>
-<img ../svg/australia.svg>
+<div id="flag">
+<img src="../svg/australia.svg">
 </div>
 #+end_export
 
